@@ -1,8 +1,5 @@
-Certainly! Here’s a more professional version of your GitHub introduction:
 
----
-
-👋 Hello, I’m @YonInsights
+👋 Hello, I’mYonatan Abrham from Ethiopia
 
 👀 I have a keen interest in data analytics and am passionate about uncovering insights through data.
 

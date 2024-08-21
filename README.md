@@ -1,7 +1,7 @@
 
-👋 Hello, I’mYonatan Abrham from Ethiopia
+👋 Hello, I’m Yonatan Abrham from Ethiopia
 
-👀 I have a keen interest in data analytics and am passionate about uncovering insights through data.
+👀 I'm passionate about data analytics and enjoy delving into data to uncover insights.
 
 🌱 Currently, I am advancing my skills in data analytics to deepen my expertise and broaden my knowledge base.
 

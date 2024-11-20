@@ -1,5 +1,9 @@
-# 💫 About Me:
-<br>Hi, I'm Yonatan Abrham 👋<br>I'm a junior data analyst and data science enthusiast transitioning from Civil Engineering into the world of data!</br> I love solving problems with data-driven insights and am building projects that showcase my skills in Python, SQL,<br/> and machine learning.
+# 💫 About Me
+
+Hi, I'm Yonatan Abrham 👋
+
+I'm a junior Highway Engineer with 2 years of experience as a data analyst and a science enthusiast. I work on applying civil engineering knowledge to data science, aiming to automate various iterative tasks in designing using artificial intelligence and machine learning. I love solving problems with data-driven insights and am building projects that showcase my skills in Python, SQL, and machine learning.
+
 ## 🚀 What I Do
 - Data Analysis & Visualization: Python, Pandas, Matplotlib, Seaborn, Power BI
 - Machine Learning: Scikit-learn, basic models

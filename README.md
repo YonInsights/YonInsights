@@ -2,7 +2,7 @@
 
 Hi, I'm Yonatan Abrham 👋
 
-I'm a Highway Engineer at Omega, dedicated to working in the highway sector. I have 3 years of experience as a data analyst and a strong interest in science. I focus on applying civil engineering knowledge to data science, aiming to automate repetitive tasks in road design using AI and machine learning. I enjoy solving problems with data-driven insights and building projects that demonstrate my skills in Python, SQL, and machine learning. 
+I'm a Highway Engineer at Ethiopian Engineering Corporation, dedicated to working in the highway sector. I have 3 years of experience in highway design and a strong interest in data science. I focus on applying data science, AI, and Machine Learning on road design sector,  aiming to automate repetitive tasks in road design using AI and machine learning. I enjoy solving problems with data-driven insights and building projects that demonstrate my skills in Python, SQL, and machine learning. 
 
 ## 🚀 What I Do
 - Data Analysis & Visualization: SQL, Power BI

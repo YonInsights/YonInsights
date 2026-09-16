@@ -3,6 +3,7 @@
 
 <p align="left">
   <a href="https://www.infradigitalcad.com/"><img src="https://img.shields.io/badge/Platform-Infradigital%20CAD-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Infradigital CAD" /></a>
+  <a href="https://orcid.org/0009-0002-1114-6120"><img src="https://img.shields.io/badge/ORCID-0009--0002--1114--6120-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.linkedin.com/in/yonatan-abrham1/"><img src="https://img.shields.io/badge/LinkedIn-Yonatan_Abrham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:email2yonatan@gmail.com"><img src="https://img.shields.io/badge/Email-email2yonatan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -59,5 +60,6 @@ As a Highway Design Engineer at the **Ethiopian Engineering Corporation** with a
 
 ### 🌐 Connect With Me
 * **Platform:** [infradigitalcad.com](https://www.infradigitalcad.com/)
+* **ORCID:** [0009-0002-1114-6120](https://orcid.org/0009-0002-1114-6120)
 * **LinkedIn:** [linkedin.com/in/yonatan-abrham1](https://www.linkedin.com/in/yonatan-abrham1/)
 * **Email:** [email2yonatan@gmail.com](mailto:email2yonatan@gmail.com)

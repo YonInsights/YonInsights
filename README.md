@@ -13,7 +13,7 @@
 
 I operate at the intersection of **Civil Infrastructure Engineering (Civil 3D, AASHTO, ERA)** and **Applied Data Science & Software Automation (Python, Machine Learning, BIM Pipelines)**. 
 
-As a Highway Design Engineer at the **Ethiopian Engineering Corporation** with a multidisciplinary foundation across Civil Engineering (BSc), Project Management (MA), and Business Administration (BA), I design and build computational tools that replace repetitive manual CAD drafting with algorithmic workflows, automated design standards verification, and predictive data systems.
+As a Highway Design Engineer at the **Ethiopian Engineering Corporation** with a multidisciplinary foundation across Civil Engineering (BSc), Project Management (MA), and Data Science and Information Systems (MSc), I design and build computational tools that replace repetitive manual CAD drafting with algorithmic workflows, automated design standards verification, and predictive data systems.
 
 * 🛣️ **Founder & Developer of [Infradigital CAD](https://www.infradigitalcad.com/):** A production engineering suite providing 20+ automated calculators, station equation formatters, and BIM tools aligned with Ethiopian Road Standards (ERA 2013, AACRA) and AASHTO/FHWA guidelines.
 * 🧠 **Applied Machine Learning & NLP:** Building production pipelines ranging from Amharic Named Entity Recognition (NER) and financial credit risk models to transportation safety analytics.

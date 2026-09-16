@@ -1,40 +1,63 @@
-# 💫 About Me
+# Hi there, I'm Yonatan Abrham 👋
+### Highway Design Engineer | Infrastructure Technologist | Applied Data Scientist
 
-Hi, I'm Yonatan Abrham 👋
-
-I'm a Highway Engineer at Ethiopian Engineering Corporation, dedicated to working in the highway sector. I have 3 years of experience in highway design and a strong interest in data science. I focus on applying data science, AI, and Machine Learning on road design sector,  aiming to automate repetitive tasks in road design using AI and machine learning. I enjoy solving problems with data-driven insights and building projects that demonstrate my skills in Python, SQL, and machine learning. 
-
-## 🚀 What I Do
-- Data Analysis & Visualization: SQL, Power BI
-- Database Management: SQL for querying and manipulating data
-- Problem Solving: Using data-driven insights to tackle engineering challenges
-- Machine Learning: Basics and applications in civil engineering
-## 🌱 Currently Learning
-- Advanced SQL 
-- Machine Learning
-#### Let's connect!<br>Email - email2yonatan@gmail.com<br>
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yonatan80) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yonatan.abrham.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Last_yoni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonatan-abrham1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yoni1280)
-
-## 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YonInsights&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YonInsights&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YonInsights&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YonInsights&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YonInsights&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://www.infradigitalcad.com/"><img src="https://img.shields.io/badge/Platform-Infradigital%20CAD-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Infradigital CAD" /></a>
+  <a href="https://www.linkedin.com/in/yonatan-abrham1/"><img src="https://img.shields.io/badge/LinkedIn-Yonatan_Abrham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:email2yonatan@gmail.com"><img src="https://img.shields.io/badge/Email-email2yonatan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YonInsights&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I operate at the intersection of **Civil Infrastructure Engineering (Civil 3D, AASHTO, ERA)** and **Applied Data Science & Software Automation (Python, Machine Learning, BIM Pipelines)**. 
+
+As a Highway Design Engineer at the **Ethiopian Engineering Corporation** with a multidisciplinary foundation across Civil Engineering (BSc), Project Management (MA), and Business Administration (BA), I design and build computational tools that replace repetitive manual CAD drafting with algorithmic workflows, automated design standards verification, and predictive data systems.
+
+* 🛣️ **Founder & Developer of [Infradigital CAD](https://www.infradigitalcad.com/):** A production engineering suite providing 20+ automated calculators, station equation formatters, and BIM tools aligned with Ethiopian Road Standards (ERA 2013, AACRA) and AASHTO/FHWA guidelines.
+* 🧠 **Applied Machine Learning & NLP:** Building production pipelines ranging from Amharic Named Entity Recognition (NER) and financial credit risk models to transportation safety analytics.
+* 📐 **Computational CAD/BIM Automation:** Developing Python and Streamlit tools to parse LandXML, automate Civil 3D alignment exports, and optimize road corridor geometries.
+
+---
+
+### 🛠️ Technical Competencies
+
+| Domain | Technologies & Standards |
+| :--- | :--- |
+| **Highway & Civil Engineering** | Autodesk Civil 3D, InfraWorks, AutoCAD, LandXML, ERA 2013 Manuals, AASHTO Green Book, AACRA Standards |
+| **Programming & Automation** | Python, TypeScript, SQL, Streamlit, Git, Civil 3D Automation, Telegram Bot API |
+| **Machine Learning & Data Science** | Scikit-learn, Pandas, NumPy, XGBoost, PyTorch, Transformers / HuggingFace, Time-Series (Prophet) |
+| **Data Analytics & BI** | Power BI, Matplotlib, Seaborn, Plotly, Advanced Excel |
+
+---
+
+### 🌟 Featured Repositories & Engineering Tools
+
+#### 🚗 Infrastructure Technology & CAD Automation
+* **[Infradigital CAD (Live Platform)](https://www.infradigitalcad.com/)** — Production highway engineering suite automating geometric alignment, pavement thickness, and LandXML workflows.
+* **[RoadOptimizer](https://github.com/YonInsights/RoadOptimizer)** — Streamlit web app optimizing horizontal/vertical alignments and calculating superelevation under ERA standards.
+* **[civil3d-converter](https://github.com/YonInsights/civil3d-converter)** — Python data processor that cleans, formats, and transforms raw Civil 3D alignment entity exports into standardized, submission-ready Excel tables.
+* **[Soil-Lab-Calculator-Telegram-Bot](https://github.com/YonInsights/Soil-Lab-Calculator-Telegram-Bot)** — Automated geotechnical soil analysis calculation bot for laboratory testing (Atterberg limits, moisture, shrinkage).
+
+#### 📊 Applied Machine Learning & Data Science
+* **[EthioMart-Amharic-NER-System](https://github.com/YonInsights/EthioMart-Amharic-NER-System)** — Named Entity Recognition (NER) system fine-tuned for Amharic e-commerce transactions on Telegram.
+* **[Bati-Bank-Credit-Scoring-Model](https://github.com/YonInsights/Bati-Bank-Credit-Scoring-Model)** — Predictive machine learning credit scoring model for Buy-Now-Pay-Later (BNPL) financial risk evaluation.
+* **[Rossmann-Pharmaceuticals-Sales-Forecasting](https://github.com/YonInsights/Rossmann-Pharmaceuticals-Sales-Forecasting)** — End-to-end time-series sales forecasting using ensemble machine learning techniques.
+* **[Telecom-User-Analysis-and-Dashboard-Development](https://github.com/YonInsights/Telecom-User-Analysis-and-Dashboard-Development)** — User behavior analytics, customer satisfaction scoring, and interactive dashboarding.
+
+---
+
+### 📈 GitHub Overview
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YonInsights&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonatan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonInsights&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+* **Platform:** [infradigitalcad.com](https://www.infradigitalcad.com/)
+* **LinkedIn:** [linkedin.com/in/yonatan-abrham1](https://www.linkedin.com/in/yonatan-abrham1/)
+* **Email:** [email2yonatan@gmail.com](mailto:email2yonatan@gmail.com)

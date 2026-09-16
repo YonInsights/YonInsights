@@ -1,63 +1,76 @@
-# Hi there, I'm Yonatan Abrham 👋
-### Highway Design Engineer | Infrastructure Technologist | Applied Data Scientist
+# Yonatan Abrham
+### Highway Design Engineer and Applied Data Scientist
 
-<p align="left">
-  <a href="https://www.infradigitalcad.com/"><img src="https://img.shields.io/badge/Platform-Infradigital%20CAD-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Infradigital CAD" /></a>
-  <a href="https://www.linkedin.com/in/yonatan-abrham1/"><img src="https://img.shields.io/badge/LinkedIn-Yonatan_Abrham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:email2yonatan@gmail.com"><img src="https://img.shields.io/badge/Email-email2yonatan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[Platform: Infradigital CAD](https://www.infradigitalcad.com/) | [LinkedIn](https://www.linkedin.com/in/yonatan-abrham1/) | [Email](mailto:email2yonatan@gmail.com)
 
 ---
 
-### 💫 About Me
+## Professional Summary
 
-I operate at the intersection of **Civil Infrastructure Engineering (Civil 3D, AASHTO, ERA)** and **Applied Data Science & Software Automation (Python, Machine Learning, BIM Pipelines)**. 
+I am a Highway Design Engineer at the Ethiopian Engineering Corporation, specializing in the intersection of civil infrastructure engineering, computational design, and applied data science. With academic qualifications spanning Civil Engineering (BSc), Project Management (MA), and Business Administration (BA), I focus on automating engineering calculations, building computational BIM workflows, and deploying applied machine learning models.
 
-As a Highway Design Engineer at the **Ethiopian Engineering Corporation** with a multidisciplinary foundation across Civil Engineering (BSc), Project Management (MA), and Business Administration (BA), I design and build computational tools that replace repetitive manual CAD drafting with algorithmic workflows, automated design standards verification, and predictive data systems.
-
-* 🛣️ **Founder & Developer of [Infradigital CAD](https://www.infradigitalcad.com/):** A production engineering suite providing 20+ automated calculators, station equation formatters, and BIM tools aligned with Ethiopian Road Standards (ERA 2013, AACRA) and AASHTO/FHWA guidelines.
-* 🧠 **Applied Machine Learning & NLP:** Building production pipelines ranging from Amharic Named Entity Recognition (NER) and financial credit risk models to transportation safety analytics.
-* 📐 **Computational CAD/BIM Automation:** Developing Python and Streamlit tools to parse LandXML, automate Civil 3D alignment exports, and optimize road corridor geometries.
+* **Domain Specialization:** Geometric highway design, road corridor modeling, flexible and rigid pavement design, earthwork optimization, and standards compliance (ERA 2013, AACRA, AASHTO).
+* **Computational Engineering:** CAD and BIM workflow automation with Python, LandXML data processing, Streamlit engineering interfaces, and automated design verification.
+* **Applied Machine Learning:** Predictive modeling, Natural Language Processing (NLP), financial risk evaluation, and time-series forecasting.
 
 ---
 
-### 🛠️ Technical Competencies
+## Technical Competencies
 
-| Domain | Technologies & Standards |
+| Domain | Technologies and Frameworks |
 | :--- | :--- |
-| **Highway & Civil Engineering** | Autodesk Civil 3D, InfraWorks, AutoCAD, LandXML, ERA 2013 Manuals, AASHTO Green Book, AACRA Standards |
-| **Programming & Automation** | Python, TypeScript, SQL, Streamlit, Git, Civil 3D Automation, Telegram Bot API |
-| **Machine Learning & Data Science** | Scikit-learn, Pandas, NumPy, XGBoost, PyTorch, Transformers / HuggingFace, Time-Series (Prophet) |
-| **Data Analytics & BI** | Power BI, Matplotlib, Seaborn, Plotly, Advanced Excel |
+| **Highway and Civil Engineering** | Autodesk Civil 3D, AutoCAD, InfraWorks, LandXML, ERA 2013 Manuals, AASHTO Green Book, AACRA Standards |
+| **Programming and Automation** | Python, SQL, TypeScript, Streamlit, Git, Civil 3D API, Telegram Bot API |
+| **Data Science and Machine Learning** | Scikit-learn, Pandas, NumPy, XGBoost, PyTorch, Transformers, SciPy, Statsmodels |
+| **Data Analysis and Visualization** | Power BI, Matplotlib, Seaborn, Plotly, Advanced Excel |
 
 ---
 
-### 🌟 Featured Repositories & Engineering Tools
+## Selected Projects
 
-#### 🚗 Infrastructure Technology & CAD Automation
-* **[Infradigital CAD (Live Platform)](https://www.infradigitalcad.com/)** — Production highway engineering suite automating geometric alignment, pavement thickness, and LandXML workflows.
-* **[RoadOptimizer](https://github.com/YonInsights/RoadOptimizer)** — Streamlit web app optimizing horizontal/vertical alignments and calculating superelevation under ERA standards.
-* **[civil3d-converter](https://github.com/YonInsights/civil3d-converter)** — Python data processor that cleans, formats, and transforms raw Civil 3D alignment entity exports into standardized, submission-ready Excel tables.
-* **[Soil-Lab-Calculator-Telegram-Bot](https://github.com/YonInsights/Soil-Lab-Calculator-Telegram-Bot)** — Automated geotechnical soil analysis calculation bot for laboratory testing (Atterberg limits, moisture, shrinkage).
+### Infrastructure Technology and CAD Automation
 
-#### 📊 Applied Machine Learning & Data Science
-* **[EthioMart-Amharic-NER-System](https://github.com/YonInsights/EthioMart-Amharic-NER-System)** — Named Entity Recognition (NER) system fine-tuned for Amharic e-commerce transactions on Telegram.
-* **[Bati-Bank-Credit-Scoring-Model](https://github.com/YonInsights/Bati-Bank-Credit-Scoring-Model)** — Predictive machine learning credit scoring model for Buy-Now-Pay-Later (BNPL) financial risk evaluation.
-* **[Rossmann-Pharmaceuticals-Sales-Forecasting](https://github.com/YonInsights/Rossmann-Pharmaceuticals-Sales-Forecasting)** — End-to-end time-series sales forecasting using ensemble machine learning techniques.
-* **[Telecom-User-Analysis-and-Dashboard-Development](https://github.com/YonInsights/Telecom-User-Analysis-and-Dashboard-Development)** — User behavior analytics, customer satisfaction scoring, and interactive dashboarding.
+* **[Infradigital CAD](https://www.infradigitalcad.com/)**  
+  Production engineering web suite delivering 20+ automated calculators for geometric highway design, station equations, and pavement thickness compliant with ERA and AASHTO standards.
+
+* **[RoadOptimizer](https://github.com/YonInsights/RoadOptimizer)**  
+  Streamlit computational highway design application optimizing horizontal curve radii, vertical profiles, and superelevation in accordance with ERA 2013 guidelines using `ezdxf` and `scipy`.
+
+* **[civil3d-converter](https://github.com/YonInsights/civil3d-converter)**  
+  Python data pipeline that extracts, parses, and formats raw Civil 3D alignment entity exports into standardized, submission-ready Excel tables.
+
+* **[Soil-Lab-Calculator-Telegram-Bot](https://github.com/YonInsights/Soil-Lab-Calculator-Telegram-Bot)**  
+  Automated geotechnical testing calculator interfacing with Telegram to streamline Atterberg limits, soil compaction, and moisture content calculations.
+
+### Applied Data Science and Machine Learning
+
+* **[EthioMart-Amharic-NER-System](https://github.com/YonInsights/EthioMart-Amharic-NER-System)**  
+  End-to-end data pipeline combining Telegram ingestion, YOLOv8 computer vision for product classification, dbt dimensional modeling, and a FastAPI REST backend.
+
+* **[Bati-Bank-Credit-Scoring-Model](https://github.com/YonInsights/Bati-Bank-Credit-Scoring-Model)**  
+  Machine learning credit risk classification and scoring model developed for Buy-Now-Pay-Later (BNPL) customer risk assessment.
+
+* **[Rossmann-Pharmaceuticals-Sales-Forecasting](https://github.com/YonInsights/Rossmann-Pharmaceuticals-Sales-Forecasting)**  
+  Enterprise time-series sales forecasting pipeline predicting daily store-level sales across 1,115+ locations using ensemble learning and deep neural networks.
+
+* **[Road_Accident](https://github.com/YonInsights/Road_Accident)**  
+  Transportation safety analytics dashboard evaluating casualty severity, roadway geometry, and environmental risk factors across 307,000+ collision records.
+
+* **[Bank_loan-SQL-project](https://github.com/YonInsights/Bank_loan-SQL-project)**  
+  Relational database analytics project in SQL monitoring loan portfolio health, Month-to-Date (MTD) performance, and default risk across 38,500+ records.
 
 ---
 
-### 📈 GitHub Overview
+## Research and Graduate Study Interests
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YonInsights&show_icons=true&theme=tokyonight&hide_border=true" alt="Yonatan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonInsights&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+* **Computational Civil Engineering and Digital Twins:** Integration of sensor streams, GIS, and 3D BIM models for lifecycle infrastructure performance monitoring.
+* **Machine Learning in Transportation:** Predictive pavement deterioration modeling, crash severity prediction, and automated regulatory compliance checking.
+* **Low-Resource Natural Language Processing:** Information extraction and entity recognition systems for regional languages in developing economies.
 
 ---
 
-### 🌐 Connect With Me
-* **Platform:** [infradigitalcad.com](https://www.infradigitalcad.com/)
+## Contact
+
+* **Website:** [infradigitalcad.com](https://www.infradigitalcad.com/)
 * **LinkedIn:** [linkedin.com/in/yonatan-abrham1](https://www.linkedin.com/in/yonatan-abrham1/)
 * **Email:** [email2yonatan@gmail.com](mailto:email2yonatan@gmail.com)
